@@ -193,5 +193,5 @@ if __name__ == "__main__":
 
 
 def setup():
-    train() 
+#    train() 
     train_sement()
